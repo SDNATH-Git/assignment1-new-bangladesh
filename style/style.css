@@ -328,3 +328,73 @@ nav {
     text-align: center;
     margin-bottom: 50px;
 }
+
+/* < !-- section Subscribe Newsletter --> */
+.color-Newsletter {
+    border-radius: 24px;
+    background: rgb(198, 228, 214);
+    padding: 80px 100px 80px 100px;
+    margin-bottom: 50px;
+}
+
+.Newsletter1 {
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 40px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.Newsletter2 {
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    padding: 0px 70px 0px 70px;
+}
+
+.newsletter-form {
+    display: flex;
+    margin-top: 20px;
+
+}
+
+.newsletter-form input {
+    color: rgba(14, 14, 14, 0.3);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    border-radius: 8px 0px 0px 8px;
+    border: none;
+    background: rgb(255, 255, 255);
+    padding: 18px 40px 18px 40px;
+    width: 50%;
+    margin-left: auto;
+}
+
+.newsletter-form button {
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
+    border-radius: 0px 8px 8px 0px;
+    border: none;
+    padding: 17px 34px 17px 34px;
+    background: rgb(0, 106, 80);
+    margin-right: auto;
+}
+
+.footer1 {
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: center;
+}
