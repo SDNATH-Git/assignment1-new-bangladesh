@@ -31,8 +31,6 @@ nav {
     font-family: Fira Sans;
     font-size: 45px;
     font-weight: 700;
-    /* line-height: 67px; */
-    /* letter-spacing: 0%; */
     text-align: left;
 }
 
@@ -79,7 +77,6 @@ nav {
 
 .vision-tamlet {
     display: flex;
-    /* justify-content: space-around; */
     gap: 20px;
 }
 
@@ -156,12 +153,13 @@ nav {
     box-sizing: border-box;
     border: 1px solid rgba(14, 14, 14, 0.15);
     border-radius: 16px;
-    padding: 48px 24px 48px 24px;
+
     margin-bottom: 50px;
     background: rgb(255, 255, 255);
     background-image: url(../assets/quote-bg.png);
     background-repeat: no-repeat;
     background-position: top left;
+    padding: 48px 24px 48px 24px;
 }
 
 .yunus1 {
@@ -172,6 +170,7 @@ nav {
     line-height: 24px;
     letter-spacing: 0%;
     text-align: left;
+
 }
 
 .yunus2 {
@@ -211,6 +210,14 @@ nav {
 }
 
 .news3 {
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: left;
+}
+
+.news33 {
     color: rgba(14, 14, 14, 0.8);
     font-family: Fira Sans;
     font-size: 32px;
